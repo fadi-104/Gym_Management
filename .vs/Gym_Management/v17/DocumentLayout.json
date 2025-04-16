@@ -1,0 +1,1797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\mapping\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\areaes\\admin\\apis\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\areaes\\admin\\apis\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01AFA3A-03EE-4274-8F94-58F543D06624}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\gym_management\\core\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01AFA3A-03EE-4274-8F94-58F543D06624}|Core\\Core.csproj|solutionrelative:core\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\identityservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\identityservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\storage\\filediskstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\storage\\filediskstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\identityrepository\\appusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\identityrepository\\appusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\trainerprofiles\\itrainerprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\trainerprofiles\\itrainerprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\trainerprofiles\\trainerprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\trainerprofiles\\trainerprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\trainerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\trainerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\trainerprofilerequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\trainerprofilerequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\identityservice\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\identityservice\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\trainerprofileresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\trainerprofileresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\identityrepository\\iappusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\identityrepository\\iappusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\mapping\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapping\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\trainerprofileservices\\itrainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainerprofileservices\\itrainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\traineedataservices\\traineedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\traineedataservices\\traineedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\traineedataservices\\itraineedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\traineedataservices\\itraineedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\traineedatas\\traineedatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\traineedatas\\traineedatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\traineedatas\\itraineedatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\traineedatas\\itraineedatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\traineedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\traineedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\traineedatarequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\traineedatarequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\workoutservices\\workoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\workoutservices\\workoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\workoutservices\\iworkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\workoutservices\\iworkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\exercises\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\exercises\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\userapposervices\\userapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\userapposervices\\userapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\exercises\\iexercisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\exercises\\iexercisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\identityrepository\\appsigninmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\identityrepository\\appsigninmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\userresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\userresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\identityrepository\\iappsignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\identityrepository\\iappsignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\trainersubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\trainersubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\trainerappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\trainerappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\areaes\\admin\\apis\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\areaes\\admin\\apis\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\areaes\\admin\\apis\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\areaes\\admin\\apis\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\areaes\\admin\\apis\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\areaes\\admin\\apis\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\areaes\\admin\\apis\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\areaes\\admin\\apis\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\gym_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\gym_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\subscriptions\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\subscriptions\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\userappocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\userappocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|c:\\users\\asus\\source\\repos\\gym_management\\gym_management\\apis\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\apis\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\subscriptionresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\subscriptionresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\exercisecategoryresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\exercisecategoryresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\exercisecategoryrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\exercisecategoryrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\subscriptionplanrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\subscriptionplanrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\subscriptionplanresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\subscriptionplanresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\entities\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\entities\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\userapposervices\\iuserapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\userapposervices\\iuserapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\userappo\\userapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\userappo\\userapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\userappo\\iuserapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\userappo\\iuserapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\trainersubscriptionrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\trainersubscriptionrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\userappointmentrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\userappointmentrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\trainerapporequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\trainerapporequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\exerciserequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\exerciserequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\constants\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\constants\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\subscriptionplanservices\\subscriptionplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\subscriptionplanservices\\subscriptionplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\identityservice\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\identityservice\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\exerciseservice\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\exerciseservice\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\trainerappointments\\trainerapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\trainerappointments\\trainerapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\progessresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\progessresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\workout\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\workout\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\workoutdataresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\workoutdataresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\identityrepository\\approlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\identityrepository\\approlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\roleresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\roleresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\exercisecategories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\exercisecategories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\exercisecategoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\exercisecategoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\exercisecategoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\exercisecategoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\exercisecategories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\exercisecategories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\entities\\exercisecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\entities\\exercisecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\trainerappointmentservice\\trainerapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainerappointmentservice\\trainerapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\trainerappointmentservice\\itrainerapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainerappointmentservice\\itrainerapposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\constants\\userroleint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\constants\\userroleint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\subscriptionservices\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\subscriptionservices\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\subscriptionplans\\subscriptionplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\subscriptionplans\\subscriptionplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\subscriptionplanservices\\isubscriptionplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\subscriptionplanservices\\isubscriptionplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\subscriptionplans\\isubscriptionplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\subscriptionplans\\isubscriptionplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\identityservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\identityservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\requests\\workoutdatarequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\workoutdatarequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\userappointmentresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\userappointmentresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\trainersubscriptionresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\trainersubscriptionresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\trainerapporesponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\trainerapporesponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\traineedataresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\traineedataresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\responses\\exerciseresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\exerciseresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\migrations\\20250318115658_update_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20250318115658_update_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\domainentitieslayer\\entities\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\entities\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01AFA3A-03EE-4274-8F94-58F543D06624}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\gym_management\\core\\models\\tableoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01AFA3A-03EE-4274-8F94-58F543D06624}|Core\\Core.csproj|solutionrelative:core\\models\\tableoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\trainerappointments\\itrainerapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\trainerappointments\\itrainerapporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\trainersubscriptions\\itrainersubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\trainersubscriptions\\itrainersubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\trainersubscriptions\\trainersubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\trainersubscriptions\\trainersubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\trainersubservices\\itrainersubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainersubservices\\itrainersubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\trainersubservices\\trainersubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainersubservices\\trainersubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\workout\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\workout\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\exerciseservice\\iexerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\exerciseservice\\iexerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\subscriptionservices\\isubscriptionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\subscriptionservices\\isubscriptionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\repository\\subscriptions\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\subscriptions\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01AFA3A-03EE-4274-8F94-58F543D06624}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\gym_management\\core\\models\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01AFA3A-03EE-4274-8F94-58F543D06624}|Core\\Core.csproj|solutionrelative:core\\models\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\gym_management\\dataaccesslayer\\migrations\\20250318183514_update_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3761C7-1979-4B8B-80C2-A2641AD55C55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20250318183514_update_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAvwGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:46:20.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Base\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Base\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Base\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Base\\GenericRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA+wDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:30:05.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\UserController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\UserController.cs",
+              "RelativeToolTip": "Gym_Management\\Areaes\\Admin\\APIs\\UserController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAvwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:22:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Core\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:17:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainerProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:09:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:22:07.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileDiskStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:35:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
+              "RelativeToolTip": "DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAvwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:30:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainerProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TrainerProfileController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerProfileController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TrainerProfileController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\TrainerProfileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:41:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITrainerProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:57:53.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrainerProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA8wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:59:00.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:10:21.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Program.cs",
+              "RelativeToolTip": "Gym_Management\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:51:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\UserMapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:17:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\RoleService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\RoleService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\RoleService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\RoleService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:10:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrainerProfileRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA7wA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:53:31.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAppUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\IAppUserManager.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\IAppUserManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\IAppUserManager.cs",
+              "RelativeToolTip": "DataAccessLayer\\IdentityRepository\\IAppUserManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwA4AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:30:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\AccountController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\AccountController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:11:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrainerProfileResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:54:09.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GeneralProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:41:20.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITrainerProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\ITrainerProfileService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerProfileServices\\ITrainerProfileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\ITrainerProfileService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TrainerProfileServices\\ITrainerProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:09:19.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITraineeDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TraineeDataServices\\ITraineeDataService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TraineeDataServices\\ITraineeDataService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TraineeDataServices\\ITraineeDataService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TraineeDataServices\\ITraineeDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:03:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TraineeDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TraineeDataServices\\TraineeDataService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TraineeDataServices\\TraineeDataService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TraineeDataServices\\TraineeDataService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TraineeDataServices\\TraineeDataService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:03:21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TraineeDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TraineeDatas\\TraineeDataRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TraineeDatas\\TraineeDataRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TraineeDatas\\TraineeDataRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TraineeDatas\\TraineeDataRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:52:21.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITraineeDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TraineeDatas\\ITraineeDataRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TraineeDatas\\ITraineeDataRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TraineeDatas\\ITraineeDataRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TraineeDatas\\ITraineeDataRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:52:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TraineeDataController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TraineeDataController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\TraineeDataController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TraineeDataController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\TraineeDataController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:42:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TraineeDataRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TraineeDataRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TraineeDataRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TraineeDataRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TraineeDataRequests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:37:38.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Gym_Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\appsettings.json",
+              "RelativeToolTip": "Gym_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T11:01:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkoutService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\WorkoutServices\\WorkoutService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\WorkoutServices\\WorkoutService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\WorkoutServices\\WorkoutService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\WorkoutServices\\WorkoutService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:18:40.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IWorkoutService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\WorkoutServices\\IWorkoutService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\WorkoutServices\\IWorkoutService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\WorkoutServices\\IWorkoutService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\WorkoutServices\\IWorkoutService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:19:13.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Seed.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Seed.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Seed.cs",
+              "RelativeToolTip": "Gym_Management\\Seed.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:50:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExerciseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Exercises\\ExerciseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Exercises\\ExerciseRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Exercises\\ExerciseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Exercises\\ExerciseRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:04:42.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:26:49.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserAppoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\UserAppoServices\\UserAppoService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserAppoServices\\UserAppoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\UserAppoServices\\UserAppoService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserAppoServices\\UserAppoService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:04:29.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IExercisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Exercises\\IExercisRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Exercises\\IExercisRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Exercises\\IExercisRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Exercises\\IExercisRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:03:51.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Base\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Base\\IRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Base\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:10:37.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppSignInManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppSignInManager.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppSignInManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppSignInManager.cs",
+              "RelativeToolTip": "DataAccessLayer\\IdentityRepository\\AppSignInManager.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:50:06.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\UserResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\UserResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\UserResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\UserResponses.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:05:49.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\WorkoutController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\WorkoutController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\WorkoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:30:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IAppSignManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\IAppSignManager.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\IAppSignManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\IAppSignManager.cs",
+              "RelativeToolTip": "DataAccessLayer\\IdentityRepository\\IAppSignManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:50:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TrainerSubController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TrainerSubController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerSubController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TrainerSubController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\TrainerSubController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA5wEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:35:45.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TrainerAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TrainerAppointment.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerAppointment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\TrainerAppointment.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\TrainerAppointment.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:41:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExerciseController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
+              "RelativeToolTip": "Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:58:12.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TokenResponse.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:06:32.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\CategoryController.cs",
+              "RelativeToolTip": "Gym_Management\\Areaes\\Admin\\APIs\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:57:16.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\RoleController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\RoleController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\RoleController.cs",
+              "RelativeToolTip": "Gym_Management\\Areaes\\Admin\\APIs\\RoleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:21:45.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\SubscriptionPlan.cs",
+              "RelativeToolTip": "Gym_Management\\Areaes\\Admin\\APIs\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:50:09.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Gym_Management.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Gym_Management.csproj",
+              "RelativeDocumentMoniker": "Gym_Management\\Gym_Management.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Gym_Management.csproj",
+              "RelativeToolTip": "Gym_Management\\Gym_Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T23:14:30.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\SubscriptionController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\SubscriptionController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\SubscriptionController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAACQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:26:50.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Subscriptions\\SubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Subscriptions\\SubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Subscriptions\\SubscriptionRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Subscriptions\\SubscriptionRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:34:16.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SubscriptionResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:06:02.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserAppoController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\UserAppoController.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\APIs\\UserAppoController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\APIs\\UserAppoController.cs",
+              "RelativeToolTip": "Gym_Management\\APIs\\UserAppoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:30:04.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExerciseCategoryResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\ExerciseCategoryResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\ExerciseCategoryResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\ExerciseCategoryResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\ExerciseCategoryResponses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:13:06.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExerciseCategoryRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseCategoryRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\ExerciseCategoryRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseCategoryRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\ExerciseCategoryRequests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:10:57.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SubscriptionPlanRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\SubscriptionPlanRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\SubscriptionPlanRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\SubscriptionPlanRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\SubscriptionPlanRequests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:26:25.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SubscriptionPlanResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionPlanResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\SubscriptionPlanResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionPlanResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\SubscriptionPlanResponses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:27:00.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\SubscriptionPlan.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Entities\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:40:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IUserAppoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\UserAppoServices\\IUserAppoService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\UserAppoServices\\IUserAppoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\UserAppoServices\\IUserAppoService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\UserAppoServices\\IUserAppoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:13:04.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUserAppoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\UserAppo\\IUserAppoRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UserAppo\\IUserAppoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\UserAppo\\IUserAppoRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\UserAppo\\IUserAppoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:02:12.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserAppoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\UserAppo\\UserAppoRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UserAppo\\UserAppoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\UserAppo\\UserAppoRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\UserAppo\\UserAppoRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:01:48.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TrainerSubscriptionRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerSubscriptionRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerSubscriptionRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerSubscriptionRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TrainerSubscriptionRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:51:45.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TrainerAppoRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerAppoRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerAppoRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerAppoRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TrainerAppoRequests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:14:16.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserAppointmentRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\UserAppointmentRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\UserAppointmentRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\UserAppointmentRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\UserAppointmentRequests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:50:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:06:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ExerciseRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:01:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Constants\\UserRole.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Constants\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Constants\\UserRole.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Constants\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:06:47.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\Subscription.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:27:53.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SubscriptionPlanService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionPlanServices\\SubscriptionPlanService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionPlanServices\\SubscriptionPlanService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionPlanServices\\SubscriptionPlanService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\SubscriptionPlanServices\\SubscriptionPlanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:39:17.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\IRoleService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\IRoleService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:18:09.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ExerciseService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:23:44.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TrainerAppoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerAppointments\\TrainerAppoRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerAppointments\\TrainerAppoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerAppointments\\TrainerAppoRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TrainerAppointments\\TrainerAppoRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAxwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:25:12.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "WorkoutDataResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\WorkoutDataResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\WorkoutDataResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\WorkoutDataResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\WorkoutDataResponses.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:51:42.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProgessResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\ProgessResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\ProgessResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\ProgessResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\ProgessResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:27:40.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "WorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Workout\\WorkoutRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Workout\\WorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Workout\\WorkoutRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Workout\\WorkoutRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:12:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RoleResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\RoleResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\RoleResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\RoleResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\RoleResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:14:23.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AppRoleManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppRoleManager.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppRoleManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppRoleManager.cs",
+              "RelativeToolTip": "DataAccessLayer\\IdentityRepository\\AppRoleManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:57:25.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseCategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseCategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseCategoryService\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ExerciseCategoryService\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:11:48.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseCategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseCategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseCategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ExerciseCategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:11:01.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\ExerciseCategories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ExerciseCategories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\ExerciseCategories\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\ExerciseCategories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:18:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\ExerciseCategories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ExerciseCategories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\ExerciseCategories\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\ExerciseCategories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:27:09.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ExerciseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\ExerciseCategory.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\ExerciseCategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\ExerciseCategory.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Entities\\ExerciseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:29:16.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TrainerAppoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerAppointmentService\\TrainerAppoService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerAppointmentService\\TrainerAppoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerAppointmentService\\TrainerAppoService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TrainerAppointmentService\\TrainerAppoService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:45:19.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ITrainerAppoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerAppointmentService\\ITrainerAppoService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerAppointmentService\\ITrainerAppoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerAppointmentService\\ITrainerAppoService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TrainerAppointmentService\\ITrainerAppoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:45:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UserRoleInt.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Constants\\UserRoleInt.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Constants\\UserRoleInt.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Constants\\UserRoleInt.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Constants\\UserRoleInt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:06:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionServices\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionServices\\SubscriptionService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionServices\\SubscriptionService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\SubscriptionServices\\SubscriptionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:41:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SubscriptionPlanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\SubscriptionPlans\\SubscriptionPlanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\SubscriptionPlans\\SubscriptionPlanRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\SubscriptionPlans\\SubscriptionPlanRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\SubscriptionPlans\\SubscriptionPlanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:35:05.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20250318183514_Update_3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Migrations\\20250318183514_Update_3.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250318183514_Update_3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Migrations\\20250318183514_Update_3.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250318183514_Update_3.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:35:14.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ISubscriptionPlanService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionPlanServices\\ISubscriptionPlanService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionPlanServices\\ISubscriptionPlanService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionPlanServices\\ISubscriptionPlanService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\SubscriptionPlanServices\\ISubscriptionPlanService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:39:50.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ISubscriptionPlanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\SubscriptionPlans\\ISubscriptionPlanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\SubscriptionPlans\\ISubscriptionPlanRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\SubscriptionPlans\\ISubscriptionPlanRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\SubscriptionPlans\\ISubscriptionPlanRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:35:34.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\IdentityService\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\IUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:04:19.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "WorkoutDataRequests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\WorkoutDataRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\WorkoutDataRequests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Requests\\WorkoutDataRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\WorkoutDataRequests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:55:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UserAppointmentResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\UserAppointmentResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\UserAppointmentResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\UserAppointmentResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\UserAppointmentResponses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:50:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "TrainerSubscriptionResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerSubscriptionResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerSubscriptionResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerSubscriptionResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\TrainerSubscriptionResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:13:09.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "TrainerAppoResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerAppoResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerAppoResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerAppoResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\TrainerAppoResponses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:15:47.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "TraineeDataResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TraineeDataResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TraineeDataResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\TraineeDataResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\TraineeDataResponses.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:38:06.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ExerciseResponses.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\ExerciseResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\ExerciseResponses.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Responses\\ExerciseResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\ExerciseResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:43:31.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Storage\\IStorageService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Storage\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\Storage\\IStorageService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Storage\\IStorageService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:37:19.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20250318115658_Update_2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Migrations\\20250318115658_Update_2.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250318115658_Update_2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Migrations\\20250318115658_Update_2.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250318115658_Update_2.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:56:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\Exercise.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\Exercise.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\Entities\\Exercise.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Entities\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:37:53.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "TableOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Models\\TableOptions.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\TableOptions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Models\\TableOptions.cs",
+              "RelativeToolTip": "Core\\Models\\TableOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:50:46.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ITrainerAppoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerAppointments\\ITrainerAppoRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerAppointments\\ITrainerAppoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerAppointments\\ITrainerAppoRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TrainerAppointments\\ITrainerAppoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:25:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ITrainerSubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerSubscriptions\\ITrainerSubRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerSubscriptions\\ITrainerSubRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerSubscriptions\\ITrainerSubRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TrainerSubscriptions\\ITrainerSubRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:45:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "TrainerSubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerSubscriptions\\TrainerSubRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerSubscriptions\\TrainerSubRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\TrainerSubscriptions\\TrainerSubRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\TrainerSubscriptions\\TrainerSubRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:44:26.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ITrainerSubService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerSubServices\\ITrainerSubService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerSubServices\\ITrainerSubService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerSubServices\\ITrainerSubService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TrainerSubServices\\ITrainerSubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:05:13.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "TrainerSubService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerSubServices\\TrainerSubService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerSubServices\\TrainerSubService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\TrainerSubServices\\TrainerSubService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TrainerSubServices\\TrainerSubService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:04:44.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Workout\\IWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Workout\\IWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Workout\\IWorkoutRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Workout\\IWorkoutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:12:32.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IExerciseService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\IExerciseService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseService\\IExerciseService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\IExerciseService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ExerciseService\\IExerciseService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:26:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ISubscriptionServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionServices\\ISubscriptionServices.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionServices\\ISubscriptionServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\SubscriptionServices\\ISubscriptionServices.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\SubscriptionServices\\ISubscriptionServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:41:25.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ISubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Subscriptions\\ISubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Subscriptions\\ISubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\Repository\\Subscriptions\\ISubscriptionRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Subscriptions\\ISubscriptionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:34:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Models\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Models\\PagedResponse.cs",
+              "RelativeToolTip": "Core\\Models\\PagedResponse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:54:18.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T17:49:16.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

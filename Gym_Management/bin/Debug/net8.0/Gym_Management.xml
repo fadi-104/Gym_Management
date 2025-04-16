@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gym_Management</name>
+    </assembly>
+    <members>
+        <member name="M:Gym_Management.APIs.AccountController.Login(DomainEntitiesLayer.Requests.LoginRequest)">
+            <summary>
+            تسجيل الدخول بناء على اسم المستخدم وكلمة الرور تعيد توكين يحتوي بيانات المستخدم
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.SubscriptionController.GetAll(Core.Models.TableOptions)">
+            <summary>
+            استرجاع بيانات الاشتراكات بشكل مقسم
+            </summary>
+            <param name="options"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.SubscriptionController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات اشتراك بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.SubscriptionController.Post(DomainEntitiesLayer.Requests.SubscriptionRequests)">
+            <summary>
+            اضافة اشتراك من خلال اختيار خطة
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.SubscriptionController.Delete(System.Int32)">
+            <summary>
+            حذف اشتراك (الغاء اشتراك)
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TraineeDataController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات متدرب بناء على ال id 
+            </summary>
+            <param name="traineeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TraineeDataController.Post(DomainEntitiesLayer.Requests.TraineeDataRequests)">
+            <summary>
+            اضافة بيانات للمتدرب
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TraineeDataController.Put(DomainEntitiesLayer.Requests.TraineeDataRequests)">
+            <summary>
+            تعديل بيانات متدرب
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TraineeDataController.Delete(System.Int32)">
+            <summary>
+            حذف بيانات متدرب
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerAppointment.GetAll(Core.Models.TableOptions,System.Int32)">
+            <summary>
+            استرجاع بيانات مواعيد المدرب بشكل مقسم وبناء على id المدرب
+            </summary>
+            <param name="options"></param>
+            <param name="trainerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerAppointment.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات موعد بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerAppointment.Post(DomainEntitiesLayer.Requests.TrainerAppoRequests)">
+            <summary>
+            اضافة موعد جديد
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerAppointment.Put(DomainEntitiesLayer.Requests.TrainerAppoRequests)">
+            <summary>
+            تعديل موعد
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerAppointment.Delete(System.Int32)">
+            <summary>
+            حذف موعد
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerProfileController.Get(System.Int32)">
+            <summary>
+            استرجاع بروفايل مدرب حسب id المدرب
+            </summary>
+            <param name="TrainerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerProfileController.Put(DomainEntitiesLayer.Requests.TrainerProfileRequests)">
+            <summary>
+            تعديل بيانات البروفايل
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerSubController.GetAll(Core.Models.TableOptions,System.Int32)">
+            <summary>
+            استرجاع جميع المشتكرين بشكل مقسم مع مدرب ما بناء على id المدرب 
+            </summary>
+            <param name="options"></param>
+            <param name="trainerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerSubController.Get(System.Int32)">
+            <summary>
+            استرجاع اشتراك بناء على ال id 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerSubController.GetTrainer(System.Int32)">
+            <summary>
+            لعرض المدرب الذي تم الاشتراك معه بناء على id المتدرب
+            </summary>
+            <param name="traineeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerSubController.Post(DomainEntitiesLayer.Requests.TrainerSubscriptionRequests)">
+            <summary>
+            اشتراك مع مدرب
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.TrainerSubController.Delete(System.Int32)">
+            <summary>
+            حذف مدرب
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.UserAppoController.GetForTrainee(System.Int32,System.DateTime)">
+            <summary>
+            استرجاع المواعيد التي حجزها المتدرب عند المدرب بناء على id االمتدرب 
+            ...
+            امكانية الفلترة حسب التاربخ
+            تمكن المتدرب من رؤية مواعيده التي حجزها
+            </summary>
+            <param name="traineeId"></param>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.UserAppoController.GetForTrainer(System.Int32,System.DateTime)">
+            <summary>
+            استرجاع البيانات التي حجزها المتدرب بناء على id المدرب
+            ...
+            امكانية الفلترة حسب التاريخ
+            تمكن المدرب من رؤية جميع مواعيده التي حجزها المتدربين
+            </summary>
+            <param name="trainerId"></param>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.UserAppoController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات موعد محجوز بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.UserAppoController.Post(DomainEntitiesLayer.Requests.UserAppointmentRequests)">
+            <summary>
+            حجز موعد
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.UserAppoController.Delete(System.Int32)">
+            <summary>
+            الغاء موعد
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.WorkoutController.GetAll(Core.Models.TableOptions,System.Int32)">
+            <summary>
+            استرجاع بيانات تطور المتدرب بناء على ال id الخاص به
+            </summary>
+            <param name="options"></param>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.WorkoutController.GetByExercise(System.String,System.Int32)">
+            <summary>
+            استرجاع بيانات محسوبة بمعادلة بالنسبة لكل تاريخ لعرضها في جدول بيانتي
+            بناء على اسم التمرين و id المتدرب
+            </summary>
+            <param name="exerciseName"></param>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.WorkoutController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات تطور ما بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.WorkoutController.Post(DomainEntitiesLayer.Requests.WorkoutDataRequests)">
+            <summary>
+            اضافة بيانات تطور
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.WorkoutController.Put(DomainEntitiesLayer.Requests.WorkoutDataRequests)">
+            <summary>
+            تعديل بيانات تطور
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.APIs.WorkoutController.Delete(System.Int32)">
+            <summary>
+            حذف بيانات التطور
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.CategoryController.GetAll">
+            <summary>
+            استرجاع بيانات فئات التمارين
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.CategoryController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات فئة بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.CategoryController.Post(DomainEntitiesLayer.Requests.ExerciseCategoryRequests)">
+            <summary>
+            اضافة فئة تمارين جديدة
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.CategoryController.Put(DomainEntitiesLayer.Requests.ExerciseCategoryRequests)">
+            <summary>
+            تعديل فئة
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.CategoryController.Delete(System.Int32)">
+            <summary>
+            حذف فئة 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.ExerciseController.GetAll(Core.Models.TableOptions)">
+            <summary>
+            استرجاع بيانات التمارين
+            </summary>
+            <param name="options"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.ExerciseController.GetAllByCategory(System.String)">
+            <summary>
+            استرجاع بيانات التمارين بناء على اسم الفئة
+            </summary>
+            <param name="categoryName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.ExerciseController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات تمرين بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.ExerciseController.Post(DomainEntitiesLayer.Requests.ExerciseRequests)">
+            <summary>
+            اضافة تمرين جديد
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.ExerciseController.Put(DomainEntitiesLayer.Requests.ExerciseRequests)">
+            <summary>
+            تعديل بيانات تمرين
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.ExerciseController.Delete(System.Int32)">
+            <summary>
+            حذف تمرين بناء على id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.RoleController.GetAll">
+            <summary>
+            استرجاع كل الادوار
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.SubscriptionPlan.GetAll(Core.Models.TableOptions,System.Nullable{System.Boolean})">
+            <summary>
+            استرجاع بيانات خطط الاشتراك بشكل مقسم بناء اذا كانت نشطة ام لا
+            </summary>
+            <param name="options"></param>
+            <param name="isActive"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.SubscriptionPlan.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات خطة اشتراك بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.SubscriptionPlan.Post(DomainEntitiesLayer.Requests.SubscriptionPlanRequests)">
+            <summary>
+            اضافة بيانات خطة جديدة
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.SubscriptionPlan.Put(DomainEntitiesLayer.Requests.SubscriptionPlanRequests)">
+            <summary>
+            تعديل بيانات خطة ما
+            </summary>
+            <param name="requests"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.SubscriptionPlan.Delete(System.Int32)">
+            <summary>
+            حذف خطة
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.UserController.GetAll(Core.Models.TableOptions,System.String,System.Nullable{System.Boolean})">
+            <summary>
+            استرجاع بيانات المستخدمين بشكل مقسم بناء على الدور واذا كان مفعل ام لا
+            </summary>
+            <param name="options"></param>
+            <param name="role"></param>
+            <param name="isActive"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.UserController.Get(System.Int32)">
+            <summary>
+            استرجاع بيانات مستخدم بناء على ال id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.UserController.Post(DomainEntitiesLayer.Requests.UserRequests)">
+            <summary>
+            اضافة مستخدم جديد
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.UserController.Put(DomainEntitiesLayer.Requests.UserRequests)">
+            <summary>
+            تعديل بيانات مستخدم جديد
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Gym_Management.Areaes.Admin.APIs.UserController.Delete(System.Int32)">
+             <summary>
+            لا تحذف بيانات المستخدم من قاعدة البيانات بل تغير حقل النشط لغير نشط
+             </summary>
+             <param name="id"></param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

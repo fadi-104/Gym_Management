@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\Gym_Management\BusinessLogicLayer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\Gym_Management\BusinessLogicLayer\obj\Debug\net8.0\staticwebassets.build.json

@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\bin\Debug\net8.0\DomainEntitiesLayer.deps.json
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\bin\Debug\net8.0\DomainEntitiesLayer.dll
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\bin\Debug\net8.0\DomainEntitiesLayer.pdb
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\bin\Debug\net8.0\Core.dll
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\bin\Debug\net8.0\Core.pdb
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEn.39DEF610.Up2Date
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.dll
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\refint\DomainEntitiesLayer.dll
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\DomainEntitiesLayer.pdb
+C:\Users\ASUS\source\repos\Gym_Management\DomainEntitiesLayer\obj\Debug\net8.0\ref\DomainEntitiesLayer.dll
