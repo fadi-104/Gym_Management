@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uywFYR5+650=",
+  "dgSpecHash": "nM7bs3Nj5+c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -95,14 +95,10 @@
   ],
   "logs": [
     {
-      "code": "NU1903",
+      "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.Linq.Dynamic.Core' 1.5.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-4cv2-4hjh-77rx",
-      "libraryId": "System.Linq.Dynamic.Core",
-      "targetGraphs": [
-        "net8.0"
-      ]
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
     }
   ]
 }

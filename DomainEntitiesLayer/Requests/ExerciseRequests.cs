@@ -16,7 +16,7 @@ namespace DomainEntitiesLayer.Requests
         [Required]
         [MaxLength(25)]
         public string Name { get; set; }
-        [Required]
+        
         public IFormFile? ImageFile { get; set; }
 
     }

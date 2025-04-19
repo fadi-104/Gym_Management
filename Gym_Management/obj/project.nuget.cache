@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aBPfGeywrXw=",
+  "dgSpecHash": "dTPcDGlx2Ls=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Gym_Management\\Gym_Management.csproj",
+  "projectFilePath": "D:\\Gym_Management\\Gym_Management\\Gym_Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -107,14 +107,10 @@
   ],
   "logs": [
     {
-      "code": "NU1903",
+      "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.Linq.Dynamic.Core' 1.5.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-4cv2-4hjh-77rx",
-      "libraryId": "System.Linq.Dynamic.Core",
-      "targetGraphs": [
-        "net8.0"
-      ]
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
     }
   ]
 }

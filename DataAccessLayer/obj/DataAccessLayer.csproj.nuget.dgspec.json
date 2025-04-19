@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "D:\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Core.csproj": {
+    "D:\\Gym_Management\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Gym_Management\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Core.csproj",
+        "projectPath": "D:\\Gym_Management\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\obj\\",
+        "outputPath": "D:\\Gym_Management\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\Gym_Management\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Gym_Management\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,8 +121,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj"
+              "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {
+                "projectPath": "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {
+    "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
+        "projectUniqueName": "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
         "projectName": "DomainEntitiesLayer",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
+        "projectPath": "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\DomainEntitiesLayer\\obj\\",
+        "outputPath": "D:\\Gym_Management\\DomainEntitiesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,8 +246,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\source\\repos\\Gym_Management\\Core\\Core.csproj"
+              "D:\\Gym_Management\\Core\\Core.csproj": {
+                "projectPath": "D:\\Gym_Management\\Core\\Core.csproj"
               }
             }
           }
