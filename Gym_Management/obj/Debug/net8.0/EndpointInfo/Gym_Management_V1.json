@@ -1899,7 +1899,6 @@
       },
       "ExerciseRequests": {
         "required": [
-          "imageFile",
           "name"
         ],
         "type": "object",
@@ -1921,7 +1920,8 @@
           },
           "imageFile": {
             "type": "string",
-            "format": "binary"
+            "format": "binary",
+            "nullable": true
           }
         },
         "additionalProperties": false

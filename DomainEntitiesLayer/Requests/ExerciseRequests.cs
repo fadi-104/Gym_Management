@@ -12,9 +12,11 @@ namespace DomainEntitiesLayer.Requests
     {
         
         public int? Id { get; set; }
+
         public int? CategoryId { get; set; }
-        [Required]
+        
         [MaxLength(25)]
+        [Required]
         public string Name { get; set; }
         
         public IFormFile? ImageFile { get; set; }

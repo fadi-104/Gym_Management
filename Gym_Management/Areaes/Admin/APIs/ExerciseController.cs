@@ -82,6 +82,7 @@ namespace Gym_Management.Areaes.Admin.APIs
         {
             await _exerciseService.CreateAsync(requests);
             return Ok(ApiResponse<object>.SuccessResult(null));
+
         }
 
         /// <summary>
@@ -92,6 +93,7 @@ namespace Gym_Management.Areaes.Admin.APIs
         [HttpPut]
         public async Task<IActionResult> Put([FromBody] ExerciseRequests requests)
         {
+            ModelState.Remove(nameof(requests.ImageFile));
             await _exerciseService.UpdateAsync(requests);
             return Ok(ApiResponse<object>.SuccessResult(null));
         }

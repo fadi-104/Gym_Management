@@ -52,7 +52,7 @@ namespace BusinessLogicLayer.TraineeDataServices
 
             var entity = await _traineeDataRepository.FindByIdAsync(requests.Id.Value);
             if (entity is null)
-                throw new DataValidationException("Id must no to be set");
+                throw new DataValidationException("The provided entity is not found");
 
             if (!await _appUserManager.CheckRoleAsync(requests.TraineeId, UserRoleInt.Trainee))
                 throw new NoPermissionException("Only users with Trainee role can Update Trainee Data.");
