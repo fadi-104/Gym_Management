@@ -78,7 +78,7 @@ namespace Gym_Management.Areaes.Admin.APIs
         /// <param name="requests"></param>
         /// <returns></returns>
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] ExerciseRequests requests)
+        public async Task<IActionResult> Post([FromForm] ExerciseRequests requests)
         {
             await _exerciseService.CreateAsync(requests);
             return Ok(ApiResponse<object>.SuccessResult(null));
@@ -91,9 +91,9 @@ namespace Gym_Management.Areaes.Admin.APIs
         /// <param name="requests"></param>
         /// <returns></returns>
         [HttpPut]
-        public async Task<IActionResult> Put([FromBody] ExerciseRequests requests)
+        public async Task<IActionResult> Put([FromForm] ExerciseRequests requests)
         {
-            ModelState.Remove(nameof(requests.ImageFile));
+            
             await _exerciseService.UpdateAsync(requests);
             return Ok(ApiResponse<object>.SuccessResult(null));
         }

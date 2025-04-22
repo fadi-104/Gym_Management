@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -30,8 +31,14 @@ namespace DomainEntitiesLayer.Requests
         [Required]
         [Range(10,70)]
         public short Age { get; set; }
+
         public string? Description { get; set; }
+
         public string? Experience { get; set; }
+
         public string? Championship { get; set; }
+
+        public IFormFile? ImageFile { get; set; }
+
     }
 }

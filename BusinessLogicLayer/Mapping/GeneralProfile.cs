@@ -62,6 +62,7 @@ namespace BusinessLogicLayer.Mapping
                 .ForMember(x => x.PhoneNumber, x => x.MapFrom(x => x.User.PhoneNumber))
                 .ForMember(x => x.Gender, x => x.MapFrom(x => x.User.Gender))
                 .ForMember(x => x.Age, x => x.MapFrom(x => x.User.Age))
+                .ForMember(x => x.Image, x => x.MapFrom(x => x.User.Image))
                 .ReverseMap();
 
             CreateMap<UserAppointmentRequests, UserAppointment>().ReverseMap();

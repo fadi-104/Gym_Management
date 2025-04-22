@@ -273,21 +273,45 @@
         ],
         "summary": "اضافة تمرين جديد",
         "requestBody": {
-          "description": "",
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/ExerciseRequests"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/ExerciseRequests"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/ExerciseRequests"
+                "required": [
+                  "Name"
+                ],
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CategoryId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Name": {
+                    "maxLength": 25,
+                    "type": "string"
+                  },
+                  "ImageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "CategoryId": {
+                  "style": "form"
+                },
+                "Name": {
+                  "style": "form"
+                },
+                "ImageFile": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -306,21 +330,45 @@
         ],
         "summary": "تعديل بيانات تمرين",
         "requestBody": {
-          "description": "",
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/ExerciseRequests"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/ExerciseRequests"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/ExerciseRequests"
+                "required": [
+                  "Name"
+                ],
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CategoryId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Name": {
+                    "maxLength": 25,
+                    "type": "string"
+                  },
+                  "ImageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "CategoryId": {
+                  "style": "form"
+                },
+                "Name": {
+                  "style": "form"
+                },
+                "ImageFile": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -954,21 +1002,106 @@
         ],
         "summary": "تعديل بيانات البروفايل",
         "requestBody": {
-          "description": "",
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/TrainerProfileRequests"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/TrainerProfileRequests"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/TrainerProfileRequests"
+                "required": [
+                  "Age",
+                  "Email",
+                  "FirstName",
+                  "Gender",
+                  "LastName",
+                  "PhoneNumber",
+                  "TrainerId"
+                ],
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "TrainerId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "FirstName": {
+                    "maxLength": 20,
+                    "type": "string"
+                  },
+                  "LastName": {
+                    "maxLength": 20,
+                    "type": "string"
+                  },
+                  "Email": {
+                    "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+                    "type": "string"
+                  },
+                  "PhoneNumber": {
+                    "pattern": "^(?:\\+963|09)[0-9]{8}$",
+                    "type": "string"
+                  },
+                  "Gender": {
+                    "pattern": "^(Male|Female)$",
+                    "type": "string"
+                  },
+                  "Age": {
+                    "maximum": 70,
+                    "minimum": 10,
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
+                  "Experience": {
+                    "type": "string"
+                  },
+                  "Championship": {
+                    "type": "string"
+                  },
+                  "ImageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "TrainerId": {
+                  "style": "form"
+                },
+                "FirstName": {
+                  "style": "form"
+                },
+                "LastName": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "PhoneNumber": {
+                  "style": "form"
+                },
+                "Gender": {
+                  "style": "form"
+                },
+                "Age": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
+                "Experience": {
+                  "style": "form"
+                },
+                "Championship": {
+                  "style": "form"
+                },
+                "ImageFile": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -1897,35 +2030,6 @@
         },
         "additionalProperties": false
       },
-      "ExerciseRequests": {
-        "required": [
-          "name"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
-          "categoryId": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
-          "name": {
-            "maxLength": 25,
-            "minLength": 1,
-            "type": "string"
-          },
-          "imageFile": {
-            "type": "string",
-            "format": "binary",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "LoginRequest": {
         "required": [
           "password",
@@ -2151,73 +2255,6 @@
           "endDate": {
             "type": "string",
             "format": "date-time"
-          }
-        },
-        "additionalProperties": false
-      },
-      "TrainerProfileRequests": {
-        "required": [
-          "age",
-          "email",
-          "firstName",
-          "gender",
-          "lastName",
-          "phoneNumber",
-          "trainerId"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
-          "trainerId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "firstName": {
-            "maxLength": 20,
-            "minLength": 1,
-            "type": "string"
-          },
-          "lastName": {
-            "maxLength": 20,
-            "minLength": 1,
-            "type": "string"
-          },
-          "email": {
-            "minLength": 1,
-            "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
-            "type": "string"
-          },
-          "phoneNumber": {
-            "minLength": 1,
-            "pattern": "^(?:\\+963|09)[0-9]{8}$",
-            "type": "string"
-          },
-          "gender": {
-            "minLength": 1,
-            "pattern": "^(Male|Female)$",
-            "type": "string"
-          },
-          "age": {
-            "maximum": 70,
-            "minimum": 10,
-            "type": "integer",
-            "format": "int32"
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "experience": {
-            "type": "string",
-            "nullable": true
-          },
-          "championship": {
-            "type": "string",
-            "nullable": true
           }
         },
         "additionalProperties": false

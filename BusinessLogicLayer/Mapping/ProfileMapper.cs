@@ -16,7 +16,9 @@ namespace BusinessLogicLayer.Mapping
             entity.LastName = user.LastName;
             entity.Email = user.Email;
             entity.PhoneNumber = user.PhoneNumber;
+            
             entity.Gender = user.Gender;
+            
             entity.Age = user.Age;
 
             return entity;

@@ -40,7 +40,7 @@ namespace Gym_Management.APIs
         /// <param name="requests"></param>
         /// <returns></returns>
         [HttpPut]
-        public async Task<IActionResult> Put([FromBody] TrainerProfileRequests requests)
+        public async Task<IActionResult> Put([FromForm] TrainerProfileRequests requests)
         {
             await _trainerProfileService.UpdateAsync(requests);
             return Ok(ApiResponse<object>.SuccessResult(null));

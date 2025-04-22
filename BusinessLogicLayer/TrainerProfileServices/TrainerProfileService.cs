@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BusinessLogicLayer.Constants;
 using BusinessLogicLayer.Mapping;
+using BusinessLogicLayer.Storage;
 using DataAccessLayer.IdentityRepository;
 using DataAccessLayer.Repository.TrainerProfiles;
 using DomainEntitiesLayer.Entities;
@@ -15,11 +16,17 @@ namespace BusinessLogicLayer.TrainerProfileServices
         private readonly ITrainerProfileRepository _trainerProfileRepository;
         private readonly IAppUserManager _appUserManager;
         private readonly IMapper _mapper;
-        public TrainerProfileService(ITrainerProfileRepository trainerProfileRepository, IAppUserManager appUserManager, IMapper mapper)
+        private readonly IStorageService _storageService;
+
+        public TrainerProfileService(ITrainerProfileRepository trainerProfileRepository,
+            IAppUserManager appUserManager,
+            IMapper mapper,
+            IStorageService storageService)
         {
             _trainerProfileRepository = trainerProfileRepository;
             _appUserManager = appUserManager;
             _mapper = mapper;
+            _storageService = storageService;
         }
         public async Task<TrainerProfileResponses> GetAsync(int trainerId)
         {
@@ -60,6 +67,7 @@ namespace BusinessLogicLayer.TrainerProfileServices
 
                 entityProfile = requests.ToTrainerProfile(entityProfile);
                 var entityTrainer = requests.ToAppUserProfile(entityProfile.User);
+                entityTrainer.Image = await _storageService.ReplaceFileAsync(requests.ImageFile, "Images\\Users", entityTrainer.Image);
 
                 await _trainerProfileRepository.UpdateAsync(entityProfile);
                 await _appUserManager.UpdateAsync(entityTrainer);
