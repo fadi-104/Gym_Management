@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {}
+    "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {}
   },
   "projects": {
-    "D:\\Gym_Management\\Core\\Core.csproj": {
+    "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gym_Management\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Gym_Management\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Gym_Management\\Core\\obj\\",
+        "projectPath": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\YAZAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\YAZAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +40,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,63 +63,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.200, 9.0.200]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {
+    "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
         "projectName": "DomainEntitiesLayer",
-        "projectPath": "D:\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Gym_Management\\DomainEntitiesLayer\\obj\\",
+        "projectPath": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\DomainEntitiesLayer\\DomainEntitiesLayer.csproj",
+        "packagesPath": "C:\\Users\\YAZAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\DomainEntitiesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\YAZAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Gym_Management\\Core\\Core.csproj": {
-                "projectPath": "D:\\Gym_Management\\Core\\Core.csproj"
+              "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\YAZAN\\Desktop\\GG\\Gym_Management\\Core\\Core.csproj"
               }
             }
           }
@@ -135,9 +112,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -163,30 +139,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.200, 9.0.200]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
