@@ -71,7 +71,7 @@ namespace BusinessLogicLayer.IdentityService
                     throw new DataValidationException("Id Must not to be set");
 
                 var entity = _mapper.Map<AppUser>(request);
-                entity.Image = await _storageService.SaveFileAsync(request.ImageFile, "Images\\Users");
+                entity.Image = await _storageService.SaveFileAsync(request.ImageFile, "Gym_Management\\Gym_Management\\Images\\Users");
 
                 var result = await _appUserManager.CreateAsync(entity, request.Password);
 
@@ -117,7 +117,7 @@ namespace BusinessLogicLayer.IdentityService
                     throw new DataNotFoundException("The provided entity is not found");
 
                 entity = UserMapper.ToAppUser(entity, request);
-                entity.Image = await _storageService.ReplaceFileAsync(request.ImageFile, "Images\\Users", entity.Image);
+                entity.Image = await _storageService.ReplaceFileAsync(request.ImageFile, "Gym_Management\\Gym_Management\\Images\\Users", entity.Image);
                 
                 var result = await _appUserManager.UpdateAsync(entity);
 

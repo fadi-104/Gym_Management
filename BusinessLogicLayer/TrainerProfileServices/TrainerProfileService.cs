@@ -67,7 +67,7 @@ namespace BusinessLogicLayer.TrainerProfileServices
 
                 entityProfile = requests.ToTrainerProfile(entityProfile);
                 var entityTrainer = requests.ToAppUserProfile(entityProfile.User);
-                entityTrainer.Image = await _storageService.ReplaceFileAsync(requests.ImageFile, "Images\\Users", entityTrainer.Image);
+                entityTrainer.Image = await _storageService.ReplaceFileAsync(requests.ImageFile, "Gym_Management\\Gym_Management\\Images\\Users", entityTrainer.Image);
 
                 await _trainerProfileRepository.UpdateAsync(entityProfile);
                 await _appUserManager.UpdateAsync(entityTrainer);

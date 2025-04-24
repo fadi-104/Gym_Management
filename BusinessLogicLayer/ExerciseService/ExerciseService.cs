@@ -64,7 +64,7 @@ namespace BusinessLogicLayer.ExerciseService
 
             var entity = _mapper.Map<Exercise>(request);
 
-            entity.Image = await _storageService.SaveFileAsync(request.ImageFile, "Images\\Exercise");
+            entity.Image = await _storageService.SaveFileAsync(request.ImageFile, "Gym_Management\\Gym_Management\\Images\\Exercise");
             await _exercisRepository.AddAsync(entity);
         }
 
@@ -79,7 +79,7 @@ namespace BusinessLogicLayer.ExerciseService
 
             entity = _mapper.Map<Exercise>(entity);
 
-            entity.Image = await _storageService.ReplaceFileAsync(request.ImageFile, "Images\\Exercise", entity.Image);
+            entity.Image = await _storageService.ReplaceFileAsync(request.ImageFile, "Gym_Management\\Gym_Management\\Images\\Exercise", entity.Image);
             await _exercisRepository.UpdateAsync(entity);
         }
 
