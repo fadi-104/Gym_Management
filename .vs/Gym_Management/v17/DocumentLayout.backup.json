@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Gym_Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\exerciseservice\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\exerciseservice\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\identityservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\identityservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|d:\\gym_management\\domainentitieslayer\\responses\\trainerprofileresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\trainerprofileresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\identityservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\identityservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|d:\\gym_management\\domainentitieslayer\\requests\\trainerprofilerequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\mapping\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -442,32 +442,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExerciseService.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
-              "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:23:44.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrainerProfileRequests.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
-              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
-              "ToolTip": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
-              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T17:53:31.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ExerciseController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
@@ -479,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FileDiskStorageService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
@@ -491,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\UserService.cs",
@@ -499,12 +474,11 @@
               "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\UserService.cs",
               "ViewState": "AgIAAGkAAAAAAAAAAAAlwHcAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:09:20.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T16:09:20.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TrainerProfileResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
@@ -517,20 +491,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TrainerProfileService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
               "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwEUAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwBwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T18:09:07.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Program.cs",
+              "ToolTip": "D:\\Gym_Management\\Gym_Management\\Program.cs",
+              "RelativeToolTip": "Gym_Management\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:51:22.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExerciseService.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:23:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "TrainerProfileRequests.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "ToolTip": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:53:31.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GeneralProfile.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
@@ -542,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProfileMapper.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
@@ -554,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TrainerProfileController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\TrainerProfileController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerProfileController.cs",
@@ -566,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SubscriptionResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
@@ -578,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ITrainerProfileRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
@@ -590,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ExerciseRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
@@ -602,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AppUserManager.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
@@ -614,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "TrainerProfileRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
@@ -626,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
@@ -635,18 +647,6 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAWwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T15:10:21.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Program.cs",
-              "RelativeDocumentMoniker": "Gym_Management\\Program.cs",
-              "ToolTip": "D:\\Gym_Management\\Gym_Management\\Program.cs",
-              "RelativeToolTip": "Gym_Management\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:51:22.89Z"
             },
             {
               "$type": "Document",
