@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Gym_Management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\gym_management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\gym_management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\gym_management.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\gym_management.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\exerciseservice\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\exerciseservice\\exerciseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|d:\\gym_management\\domainentitieslayer\\responses\\trainerprofileresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\responses\\trainerprofileresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FD6B928-49AC-4CDF-A6F7-4F3AAC85ADE8}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\gym_management\\businesslogiclayer\\trainerprofileservices\\trainerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|d:\\gym_management\\domainentitieslayer\\requests\\traineedatarequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|solutionrelative:domainentitieslayer\\requests\\traineedatarequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|d:\\gym_management\\gym_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5AAB59C6-16C8-4A76-A700-B9F46384BC1C}|Gym_Management\\Gym_Management.csproj|solutionrelative:gym_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5F561A9-3787-48A6-BC0E-C68A39591ED0}|DomainEntitiesLayer\\DomainEntitiesLayer.csproj|d:\\gym_management\\domainentitieslayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -442,7 +454,105 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gym_Management.xml",
+              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Gym_Management.xml",
+              "RelativeDocumentMoniker": "Gym_Management\\Gym_Management.xml",
+              "ToolTip": "D:\\Gym_Management\\Gym_Management\\Gym_Management.xml",
+              "RelativeToolTip": "Gym_Management\\Gym_Management.xml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-24T13:07:43.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gym_Management.http",
+              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Gym_Management.http",
+              "RelativeDocumentMoniker": "Gym_Management\\Gym_Management.http",
+              "ToolTip": "D:\\Gym_Management\\Gym_Management\\Gym_Management.http",
+              "RelativeToolTip": "Gym_Management\\Gym_Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-24T13:07:38.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileDiskStorageService.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:35:59.643Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\UserService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAlwHcAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:09:20.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainerProfileResponses.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "ToolTip": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:54:09.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Gym_Management\\appsettings.json",
+              "ToolTip": "D:\\Gym_Management\\Gym_Management\\appsettings.json",
+              "RelativeToolTip": "Gym_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T11:01:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Gym_Management\\Program.cs",
+              "ToolTip": "D:\\Gym_Management\\Gym_Management\\Program.cs",
+              "RelativeToolTip": "Gym_Management\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:51:22.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Gym_Management\\appsettings.Development.json",
+              "ToolTip": "D:\\Gym_Management\\Gym_Management\\appsettings.Development.json",
+              "RelativeToolTip": "Gym_Management\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T13:07:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ExerciseController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\ExerciseController.cs",
@@ -455,42 +565,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FileDiskStorageService.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
-              "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\Storage\\FileDiskStorageService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAApwDkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:35:59.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\UserService.cs",
-              "ToolTip": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\UserService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\IdentityService\\UserService.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAlwHcAAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:09:20.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrainerProfileResponses.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
-              "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
-              "ToolTip": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
-              "RelativeToolTip": "DomainEntitiesLayer\\Responses\\TrainerProfileResponses.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T17:54:09.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TrainerProfileService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerProfileServices\\TrainerProfileService.cs",
@@ -502,19 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Program.cs",
-              "RelativeDocumentMoniker": "Gym_Management\\Program.cs",
-              "ToolTip": "D:\\Gym_Management\\Gym_Management\\Program.cs",
-              "RelativeToolTip": "Gym_Management\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:51:22.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ExerciseService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
@@ -522,12 +584,11 @@
               "RelativeToolTip": "BusinessLogicLayer\\ExerciseService\\ExerciseService.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:23:44.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T10:23:44.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "TrainerProfileRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerProfileRequests.cs",
@@ -539,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "GeneralProfile.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\GeneralProfile.cs",
@@ -551,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProfileMapper.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\ProfileMapper.cs",
@@ -563,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "TrainerProfileController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\TrainerProfileController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerProfileController.cs",
@@ -575,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "SubscriptionResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\SubscriptionResponses.cs",
@@ -587,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ITrainerProfileRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerProfiles\\ITrainerProfileRepository.cs",
@@ -599,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ExerciseRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\ExerciseRequests.cs",
@@ -611,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "AppUserManager.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppUserManager.cs",
@@ -623,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "TrainerProfileRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerProfiles\\TrainerProfileRepository.cs",
@@ -635,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Middlewares\\RequestLoggingMiddleware.cs",
@@ -647,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "UserMapper.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Mapping\\UserMapper.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapping\\UserMapper.cs",
@@ -659,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "RoleService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\RoleService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\RoleService.cs",
@@ -671,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "IAppUserManager.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\IdentityRepository\\IAppUserManager.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\IAppUserManager.cs",
@@ -683,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\AccountController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\AccountController.cs",
@@ -695,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ITrainerProfileService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerProfileServices\\ITrainerProfileService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerProfileServices\\ITrainerProfileService.cs",
@@ -707,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ITraineeDataService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TraineeDataServices\\ITraineeDataService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TraineeDataServices\\ITraineeDataService.cs",
@@ -719,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "TraineeDataRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TraineeDatas\\TraineeDataRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TraineeDatas\\TraineeDataRepository.cs",
@@ -731,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ITraineeDataRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TraineeDatas\\ITraineeDataRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TraineeDatas\\ITraineeDataRepository.cs",
@@ -743,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "TraineeDataController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\TraineeDataController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\TraineeDataController.cs",
@@ -755,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "TraineeDataRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TraineeDataRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TraineeDataRequests.cs",
@@ -767,19 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\appsettings.json",
-              "RelativeDocumentMoniker": "Gym_Management\\appsettings.json",
-              "ToolTip": "D:\\Gym_Management\\Gym_Management\\appsettings.json",
-              "RelativeToolTip": "Gym_Management\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-02T11:01:45.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "WorkoutService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\WorkoutServices\\WorkoutService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\WorkoutServices\\WorkoutService.cs",
@@ -791,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "IWorkoutService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\WorkoutServices\\IWorkoutService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\WorkoutServices\\IWorkoutService.cs",
@@ -803,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Seed.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Seed.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Seed.cs",
@@ -815,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ExerciseRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\Exercises\\ExerciseRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Exercises\\ExerciseRepository.cs",
@@ -827,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\AppUser.cs",
@@ -839,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "UserAppoService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\UserAppoServices\\UserAppoService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\UserAppoServices\\UserAppoService.cs",
@@ -851,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "IExercisRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\Exercises\\IExercisRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Exercises\\IExercisRepository.cs",
@@ -863,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Base\\IRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Base\\IRepository.cs",
@@ -875,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "AppSignInManager.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppSignInManager.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppSignInManager.cs",
@@ -887,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "UserResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\UserResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\UserResponses.cs",
@@ -899,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "WorkoutController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\WorkoutController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\WorkoutController.cs",
@@ -911,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "IAppSignManager.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\IdentityRepository\\IAppSignManager.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\IAppSignManager.cs",
@@ -923,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "TrainerSubController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\TrainerSubController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerSubController.cs",
@@ -935,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "TrainerAppointment.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\TrainerAppointment.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\TrainerAppointment.cs",
@@ -947,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "TokenResponse.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TokenResponse.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TokenResponse.cs",
@@ -959,7 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\CategoryController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\CategoryController.cs",
@@ -971,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "RoleController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\RoleController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\RoleController.cs",
@@ -983,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "SubscriptionPlan.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Areaes\\Admin\\APIs\\SubscriptionPlan.cs",
               "RelativeDocumentMoniker": "Gym_Management\\Areaes\\Admin\\APIs\\SubscriptionPlan.cs",
@@ -995,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "Gym_Management.csproj",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\Gym_Management.csproj",
               "RelativeDocumentMoniker": "Gym_Management\\Gym_Management.csproj",
@@ -1007,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "SubscriptionController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\SubscriptionController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\SubscriptionController.cs",
@@ -1019,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "SubscriptionRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\Subscriptions\\SubscriptionRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Subscriptions\\SubscriptionRepository.cs",
@@ -1031,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "UserAppoController.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Gym_Management\\APIs\\UserAppoController.cs",
               "RelativeDocumentMoniker": "Gym_Management\\APIs\\UserAppoController.cs",
@@ -1043,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "ExerciseCategoryResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\ExerciseCategoryResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\ExerciseCategoryResponses.cs",
@@ -1055,7 +1104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "ExerciseCategoryRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\ExerciseCategoryRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\ExerciseCategoryRequests.cs",
@@ -1067,7 +1116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "SubscriptionPlanRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\SubscriptionPlanRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\SubscriptionPlanRequests.cs",
@@ -1079,7 +1128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "SubscriptionPlanResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\SubscriptionPlanResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\SubscriptionPlanResponses.cs",
@@ -1091,7 +1140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "SubscriptionPlan.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Entities\\SubscriptionPlan.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\SubscriptionPlan.cs",
@@ -1103,7 +1152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "IUserAppoService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\UserAppoServices\\IUserAppoService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\UserAppoServices\\IUserAppoService.cs",
@@ -1115,7 +1164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "IUserAppoRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\UserAppo\\IUserAppoRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UserAppo\\IUserAppoRepository.cs",
@@ -1127,7 +1176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "UserAppoRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\UserAppo\\UserAppoRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UserAppo\\UserAppoRepository.cs",
@@ -1139,7 +1188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "TrainerSubscriptionRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerSubscriptionRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerSubscriptionRequests.cs",
@@ -1151,7 +1200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "TrainerAppoRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\TrainerAppoRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\TrainerAppoRequests.cs",
@@ -1163,7 +1212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "UserAppointmentRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\UserAppointmentRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\UserAppointmentRequests.cs",
@@ -1175,7 +1224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\LoginRequest.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\LoginRequest.cs",
@@ -1187,7 +1236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Constants\\UserRole.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Constants\\UserRole.cs",
@@ -1199,7 +1248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "Subscription.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Entities\\Subscription.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\Subscription.cs",
@@ -1211,7 +1260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "SubscriptionPlanService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\SubscriptionPlanServices\\SubscriptionPlanService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionPlanServices\\SubscriptionPlanService.cs",
@@ -1223,7 +1272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "IRoleService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\IRoleService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\IRoleService.cs",
@@ -1235,7 +1284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "TrainerAppoRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerAppointments\\TrainerAppoRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerAppointments\\TrainerAppoRepository.cs",
@@ -1247,7 +1296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "WorkoutDataResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\WorkoutDataResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\WorkoutDataResponses.cs",
@@ -1259,7 +1308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "ProgessResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\ProgessResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\ProgessResponses.cs",
@@ -1271,7 +1320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "WorkoutRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\Workout\\WorkoutRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Workout\\WorkoutRepository.cs",
@@ -1283,7 +1332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 74,
               "Title": "RoleResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\RoleResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\RoleResponses.cs",
@@ -1295,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "AppRoleManager.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\IdentityRepository\\AppRoleManager.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IdentityRepository\\AppRoleManager.cs",
@@ -1307,7 +1356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 76,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseCategoryService\\CategoryService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseCategoryService\\CategoryService.cs",
@@ -1319,7 +1368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 77,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseCategoryService\\ICategoryService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseCategoryService\\ICategoryService.cs",
@@ -1331,7 +1380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 75,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\ExerciseCategories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ExerciseCategories\\CategoryRepository.cs",
@@ -1343,7 +1392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 78,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\ExerciseCategories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ExerciseCategories\\ICategoryRepository.cs",
@@ -1355,7 +1404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 79,
               "Title": "ExerciseCategory.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Entities\\ExerciseCategory.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\ExerciseCategory.cs",
@@ -1367,7 +1416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 80,
               "Title": "TrainerAppoService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerAppointmentService\\TrainerAppoService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerAppointmentService\\TrainerAppoService.cs",
@@ -1379,7 +1428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "ITrainerAppoService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerAppointmentService\\ITrainerAppoService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerAppointmentService\\ITrainerAppoService.cs",
@@ -1391,7 +1440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "UserRoleInt.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Constants\\UserRoleInt.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Constants\\UserRoleInt.cs",
@@ -1403,7 +1452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "SubscriptionService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\SubscriptionServices\\SubscriptionService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionServices\\SubscriptionService.cs",
@@ -1415,7 +1464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 84,
               "Title": "SubscriptionPlanRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\SubscriptionPlans\\SubscriptionPlanRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\SubscriptionPlans\\SubscriptionPlanRepository.cs",
@@ -1427,7 +1476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 109,
               "Title": "20250318183514_Update_3.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Migrations\\20250318183514_Update_3.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250318183514_Update_3.cs",
@@ -1439,7 +1488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 85,
               "Title": "ISubscriptionPlanService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\SubscriptionPlanServices\\ISubscriptionPlanService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionPlanServices\\ISubscriptionPlanService.cs",
@@ -1451,7 +1500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 86,
               "Title": "ISubscriptionPlanRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\SubscriptionPlans\\ISubscriptionPlanRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\SubscriptionPlans\\ISubscriptionPlanRepository.cs",
@@ -1463,7 +1512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 87,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\IdentityService\\IUserService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\IdentityService\\IUserService.cs",
@@ -1475,7 +1524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 88,
               "Title": "WorkoutDataRequests.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Requests\\WorkoutDataRequests.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Requests\\WorkoutDataRequests.cs",
@@ -1487,7 +1536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 89,
               "Title": "UserAppointmentResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\UserAppointmentResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\UserAppointmentResponses.cs",
@@ -1499,7 +1548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 90,
               "Title": "TrainerSubscriptionResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerSubscriptionResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerSubscriptionResponses.cs",
@@ -1511,7 +1560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 91,
               "Title": "TrainerAppoResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TrainerAppoResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TrainerAppoResponses.cs",
@@ -1523,7 +1572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 92,
               "Title": "TraineeDataResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\TraineeDataResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\TraineeDataResponses.cs",
@@ -1535,7 +1584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 93,
               "Title": "ExerciseResponses.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Responses\\ExerciseResponses.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Responses\\ExerciseResponses.cs",
@@ -1547,7 +1596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 94,
               "Title": "IStorageService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\Storage\\IStorageService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Storage\\IStorageService.cs",
@@ -1559,7 +1608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 95,
               "Title": "20250318115658_Update_2.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Migrations\\20250318115658_Update_2.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250318115658_Update_2.cs",
@@ -1571,7 +1620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 96,
               "Title": "Exercise.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DomainEntitiesLayer\\Entities\\Exercise.cs",
               "RelativeDocumentMoniker": "DomainEntitiesLayer\\Entities\\Exercise.cs",
@@ -1583,7 +1632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 97,
               "Title": "TableOptions.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Core\\Models\\TableOptions.cs",
               "RelativeDocumentMoniker": "Core\\Models\\TableOptions.cs",
@@ -1595,7 +1644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 98,
               "Title": "ITrainerAppoRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerAppointments\\ITrainerAppoRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerAppointments\\ITrainerAppoRepository.cs",
@@ -1607,7 +1656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 99,
               "Title": "ITrainerSubRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerSubscriptions\\ITrainerSubRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerSubscriptions\\ITrainerSubRepository.cs",
@@ -1619,7 +1668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 100,
               "Title": "TrainerSubRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\TrainerSubscriptions\\TrainerSubRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\TrainerSubscriptions\\TrainerSubRepository.cs",
@@ -1631,7 +1680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 101,
               "Title": "ITrainerSubService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerSubServices\\ITrainerSubService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerSubServices\\ITrainerSubService.cs",
@@ -1643,7 +1692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 102,
               "Title": "TrainerSubService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\TrainerSubServices\\TrainerSubService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TrainerSubServices\\TrainerSubService.cs",
@@ -1655,7 +1704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 103,
               "Title": "IWorkoutRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\Workout\\IWorkoutRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Workout\\IWorkoutRepository.cs",
@@ -1667,7 +1716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 104,
               "Title": "IExerciseService.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\ExerciseService\\IExerciseService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\ExerciseService\\IExerciseService.cs",
@@ -1679,7 +1728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 105,
               "Title": "ISubscriptionServices.cs",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\SubscriptionServices\\ISubscriptionServices.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\SubscriptionServices\\ISubscriptionServices.cs",
@@ -1691,7 +1740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 106,
               "Title": "ISubscriptionRepository.cs",
               "DocumentMoniker": "D:\\Gym_Management\\DataAccessLayer\\Repository\\Subscriptions\\ISubscriptionRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Subscriptions\\ISubscriptionRepository.cs",
@@ -1703,7 +1752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 107,
               "Title": "PagedResponse.cs",
               "DocumentMoniker": "D:\\Gym_Management\\Core\\Models\\PagedResponse.cs",
               "RelativeDocumentMoniker": "Core\\Models\\PagedResponse.cs",
@@ -1715,7 +1764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 108,
               "Title": "BusinessLogicLayer.csproj",
               "DocumentMoniker": "D:\\Gym_Management\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",

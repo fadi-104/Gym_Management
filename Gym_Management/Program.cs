@@ -37,6 +37,19 @@ using System.Reflection;
 
 
 var builder = WebApplication.CreateBuilder(args);
+// أضف هذا في بداية بناء التطبيق (قبل أي خدمات أخرى)
+builder.WebHost.UseUrls("http://*:5117"); // الأهم! للاستماع على جميع الواجهات
+
+// تكوين CORS (ضروري لطلبات Flutter)
+builder.Services.AddCors(options => 
+{
+    options.AddPolicy("AllowAll", policy => 
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
 
 // Add services to the container.
 
@@ -141,6 +154,7 @@ builder.Services.AddSwaggerGen(option =>
 
 
 var app = builder.Build();
+app.UseCors("AllowAll"); // أضف هذا قبل Middlewares الأخرى
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomainEntitiesLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cecf95a307b32da337c674f280cb6454be8b0fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe1269f9eaf9156d34ea225e3f049d81756624a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomainEntitiesLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomainEntitiesLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
